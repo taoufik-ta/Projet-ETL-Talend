@@ -1,0 +1,536 @@
+customer_id,full_name,email,phone,city,registration_date,segment,age,gender
+CUST_0001,Imane Moussaoui,imane.el kabbaj@gmail.com,0414265799,oujdaa,2023-03-28,vip,12.0,Female
+CUST_0002,Hind Alami,hind.ouazzani715@gmail.com,0630868105,meknes,2022-07-09,New,56.0,femme
+CUST_0003,Laila Benkirane,laila.bennani748@gmail.com,0560806024,kenitra,2023-01-29,Premium,50.8,femme
+CUST_0004,Youssef Berrada,youssef.moussaoui888@gmail.com,None,Meknès,2023-07-01,regular,46.7,Male
+CUST_0005,Tarik El Kabbaj,tarik.ouazzani474@gmail.com,0784752529,rabat,2022-03-07,regular,44.0,Male
+CUST_0006,Rania Fassi,rania.lamrani898@gmail.com,0597971488,casa,2023-06-27,NEW,52.4,femme
+CUST_0007,Said El Kabbaj,said.lamrani439@gmail.com,0658586340,RABAT,2022-08-13,new,50.0,
+CUST_0008,Mehdi Sebbar,mehdi.el mansouri@gmail.com,0711540956,Marrakech,2025-01-04,inactive,82.8,Homme
+CUST_0009,Brahim Berrada,brahim.el mansouri4@gmail.com,0745351479,marrakech,2023-09-04,inactive,62.0,M
+CUST_0010,Amine Benkirane,amine.el kabbaj977@gmail.com,0710076758,fez,2022-08-18,new,38.4,Male
+CUST_0011,Salma Bennani,salma.lamrani970@gmail.com,06897549,FES,2024-12-16,Regular,42.6,Female
+CUST_0012,Soukaina El Kabbaj,soukaina.tahiri731@gmail.com,0797225156,agadire,2022-09-05,VIP,35.7,Female
+CUST_0013,Said Filali,bad_email,0140728046,fez,2025-01-09,regular,44.9,M
+CUST_0014,Jamal Ait Benhaddou,jamal.ait benhaddou827@gmail.com,0523009833,Meknès,2024-04-21,vip,38.4,
+CUST_0015,Amina Bennani,amina.filali820@gmail.com,0535714784,tetouan,2023-05-27,VIP,46.8,F
+CUST_0016,Hamza El Amrani,hamza@invalid,0532321899,marakech,2024-04-01,regular,54.2,
+CUST_0017,Mehdi Alami,mehdi.chakir949@gmail.com,0648285503,fez,2023-01-24,NEW,15.3,Homme
+CUST_0018,Amine Lamrani,amine.bennani766@gmail.com,0588406989,agadire,2022-04-27,NEW,56.0,M
+CUST_0019,Sara Fassi,sara.moussaoui414@gmail.com,0743046464,agadire,2023-06-19,REGULAR,39.0,Female
+CUST_0020,Brahim Chakir,brahim.berrada469@gmail.com,0511250299,marrakech,2025-01-06,New,40.4,Male
+CUST_0021,Ismail Idrissi,ismail.fassi901@gmail.com,0631172421,agadire,2025-02-09,new,28.1,homme
+CUST_0022,Karim Chakir,karim.el kabbaj@gmail.com,0691178885,meknes,2023-06-25,regular,47.7,Male
+CUST_0023,Asmae Bennani,asmae.chakir@gmail.com,None,casablanca,2022-06-04,New,48.8,femme
+CUST_0024,Adil Benkirane,adil.idrissi441@gmail.com,0658942697,CASABLANCA,2023-03-07,REGULAR,53.0,M
+CUST_0025,Laila El Kabbaj,laila.driouech998@gmail.com,0541774346,Mohammedia,2023-01-03,new,63.6,femme
+CUST_0026,Soukaina Chakir,soukaina.el amrani392@gmail.com,0639854548,casa,2023-09-18,REGULAR,17.3,Female
+CUST_0027,Said Tahiri,said.chakir886@gmail.com,06772642,Casablanca,2023-06-19,New,14.7,M
+CUST_0028,Jamal Bennani,jamal.filali@gmail.com,0725521714,Tanger,2022-04-01,Regular,61.9,homme
+CUST_0029,Fatima El Kabbaj,fatima.tahiri373@gmail.com,0754318698,sale,2023-09-26,premium,29.3,
+CUST_0030,Rania El Kabbaj,rania.slaoui@gmail.com,0592613013,mohammedia,2022-01-01,premium,29.6,femme
+CUST_0031,Ali Driouech,ali.sebbar671@gmail.com,0669345683,FES,2022-06-23,inactive,35.5,Male
+CUST_0032,Ismail Filali,bad_email,0536726767,CASABLANCA,2024-08-31,regular,29.2,
+CUST_0033,Sara Driouech,sara.lamrani200@gmail.com,0676354180,marrakech,2023-03-25,vip,36.5,Femme
+CUST_0034,Ismail Bennani,ismail.el amrani468@gmail.com,0699600766,Salé,2024-10-30,VIP,46.0,Homme
+CUST_0035,Dounia Ouazzani,dounia.ait benhaddou461@gmail.com,0595585469,oujda,2024-06-19,Regular,38.4,Femme
+CUST_0036,Ali Chakir,ali.el kabbaj83@gmail.com,0561410126,agadir,2024-04-29,New,62.5,Male
+CUST_0037,Yasmine El Mansouri,yasmine.tahiri853@gmail.com,0712621534,casablanca,2023-09-04,REGULAR,54.7,
+CUST_0038,Soukaina El Kabbaj,soukaina.moussaoui500@gmail.com,0675181765,mohammedia,2022-12-05,Inactive,95.0,
+CUST_0039,Nadia El Kabbaj,nadia.lamrani@gmail.com,0596268397,Oujda,2023-11-02,vip,20.3,
+CUST_0040,Hamza Filali,hamza.slaoui285@gmail.com,0643859311,marakech,2025-01-09,new,52.4,homme
+CUST_0041,Driss Fassi,driss.bennani773@gmail.com,0236757737,Marrakech,2023-03-23,Premium,35.6,Male
+CUST_0042,Imane Ouazzani,imane.el amrani797@gmail.com,0624508768,sale,2024-02-08,Premium,35.9,femme
+CUST_0043,Samira Lamrani,samira.moussaoui105@gmail.com,0690585882,CASABLANCA,2024-12-27,REGULAR,49.3,F
+CUST_0044,Zineb Zahraoui,zineb.alami870@gmail.com,0624165187,kenitra,2024-07-30,inactive,21.9,F
+CUST_0045,Rachid Zahraoui,rachid.chakir631@gmail.com,0774893936,Salé,2022-06-27,regular,20.1,Male
+CUST_0046,Hamza El Mansouri,hamza.slaoui345@gmail.com,,Oujda,2023-07-27,REGULAR,46.9,Male
+CUST_0047,Imane Alami,imane.tahiri88@gmail.com,0675575808,fez,2022-02-05,VIP,33.6,
+CUST_0048,Ali Slaoui,ali.berrada680@gmail.com,0684285882,essaouira,2025-02-01,Inactive,39.0,Male
+CUST_0049,Zineb Chakir,zineb.moussaoui124@gmail.com,0626046365,Tanger,2024-09-18,regular,40.7,Femme
+CUST_0050,Jamal Sebbar,jamal.el amrani853@gmail.com,0558436637,casablanca,2024-12-29,Inactive,12.6,
+CUST_0051,Mohamed Bennani,mohamed.idrissi654@gmail.com,0623769080,Essaouira,2023-01-13,REGULAR,52.9,M
+CUST_0052,Mohamed El Amrani,mohamed.slaoui504@gmail.com,06256445,RABAT,2022-08-31,regular,30.8,Homme
+CUST_0053,Soukaina Sebbar,soukaina.moussaoui795@gmail.com,0669421007,rabat,2022-07-23,Premium,37.3,
+CUST_0054,Amine Fassi,amine.ouazzani566@gmail.com,06572387,CASABLANCA,2023-08-14,regular,57.3,homme
+CUST_0055,Hamza Moussaoui,hamza.lamrani678@gmail.com,0567061186,tetouan,2022-05-27,NEW,48.4,M
+CUST_0056,Mehdi Sebbar,mehdi.lamrani944@gmail.com,0572907576,mohammedia,2024-10-21,Regular,47.7,homme
+CUST_0057,Asmae Fassi,asmae.driouech753@gmail.com,0613471527,Casablanca,2023-07-06,inactive,67.8,Femme
+CUST_0058,Amina Ait Benhaddou,amina.el mansouri939@gmail.com,0768503492,fez,2024-08-20,New,58.7,Female
+CUST_0059,Soukaina Filali,soukaina.ouazzani338@gmail.com,0648683937,CASABLANCA,2022-06-30,VIP,35.7,femme
+CUST_0060,Imane El Amrani,imane.slaoui886@gmail.com,0598269682,casa,2022-04-22,vip,31.6,femme
+CUST_0061,Ismail Sebbar,ismail.el mansouri779@gmail.com,None,oujda,2022-11-21,Inactive,24.8,homme
+CUST_0062,Adil El Kabbaj,adil.moussaoui862@gmail.com,0625766039,Fès,2023-08-21,VIP,49.0,M
+CUST_0063,Imane Ait Benhaddou,imane.moussaoui468@gmail.com,0635583290,Rabat,2024-04-29,Regular,54.6,Femme
+CUST_0064,Loubna Alami,loubna.berrada858@gmail.com,0775718414,Essaouira,2024-09-18,premium,35.3,femme
+CUST_0065,Yasmine El Kabbaj,yasmine.filali891@gmail.com,0742051937,CASABLANCA,2024-08-26,REGULAR,34.1,
+CUST_0066,Rania Ait Benhaddou,rania.idrissi515@gmail.com,0623470708,Essaouira,2024-12-13,New,38.2,Female
+CUST_0067,Fatima Driouech,fatima.idrissi77@gmail.com,0655440919,meknes,2024-12-28,inactive,33.4,Female
+CUST_0068,Yasmine El Kabbaj,yasmine.berrada@gmail.com,0722130508,marrakech,2022-07-25,inactive,33.6,Femme
+CUST_0069,Khadija Alami,khadija@,0629538047,tanger,2022-12-25,NEW,42.5,femme
+CUST_0070,Tarik Sebbar,tarik.ait benhaddou935@gmail.com,0571894493,casa,2022-01-20,Regular,54.4,Homme
+CUST_0071,Salma Ouazzani,salma@,0643567615,marakech,2023-05-01,New,32.2,
+CUST_0072,Hind Lamrani,hind.berrada23@gmail.com,0763124147,rabat,2024-10-14,Premium,44.7,femme
+CUST_0073,Said Benkirane,said.tahiri636@gmail.com,0798473848,CASABLANCA,2024-06-21,Regular,39.3,
+CUST_0074,Jamal Idrissi,jamal.driouech@gmail.com,0582398083,kenitra,2024-10-24,premium,36.1,homme
+CUST_0075,Mehdi Ait Benhaddou,mehdi.berrada765@gmail.com,0572858374,mohammedia,2024-01-20,premium,48.4,homme
+CUST_0076,Nabil Chakir,nabil.el mansouri378@gmail.com,0745186708,kenitra,2023-04-24,New,40.5,M
+CUST_0077,Fatima El Kabbaj,fatima.sebbar227@gmail.com,0772312933,fes,2022-03-18,new,50.6,
+CUST_0078,Anas El Amrani,anas.el kabbaj139@gmail.com,0699991136,oujdaa,2022-11-13,vip,36.5,M
+CUST_0079,Laila Sebbar,laila.chakir34@gmail.com,0569509870,kenitra,2024-01-05,premium,33.7,Femme
+CUST_0080,Nabil Tahiri,nabil.el mansouri94@gmail.com,0795831286,Casablanca,2023-11-15,new,45.0,homme
+CUST_0081,Hassan Tahiri,bad_email,0554098516,tetouan,2022-09-24,NEW,45.2,
+CUST_0082,Imane El Amrani,imane.alami135@gmail.com,0289034501,rabat,2024-05-12,NEW,21.1,Female
+CUST_0083,Laila Ait Benhaddou,laila.benkirane526@gmail.com,0677624084,agadire,2024-07-27,Regular,44.9,F
+CUST_0084,Youssef Slaoui,youssef.el amrani503@gmail.com,0619863756,Salé,2022-10-31,Premium,58.3,Homme
+CUST_0085,Hassan Sebbar,hassan.el kabbaj730@gmail.com,0781210133,Marrakech,2025-02-03,inactive,38.0,homme
+CUST_0086,Rachid Moussaoui,rachid.el mansouri409@gmail.com,0551949529,Oujda,2022-11-09,REGULAR,55.7,Homme
+CUST_0087,Omar Fassi,omar.benkirane@gmail.com,0718050510,Marrakech,2023-12-26,vip,28.8,M
+CUST_0088,Rachid Berrada,rachid.benkirane107@gmail.com,0530767532,Agadir,2023-12-19,New,34.0,M
+CUST_0089,Zineb Chakir,zineb.driouech866@gmail.com,0792352411,tetouan,2023-01-05,new,35.0,F
+CUST_0090,Ali Benkirane,,06882354,Mohammedia,2023-11-30,VIP,28.4,homme
+CUST_0091,Driss Filali,driss.lamrani611@gmail.com,06265056,essaouira,2024-06-24,VIP,46.7,homme
+CUST_0092,Imane Zahraoui,imane.berrada@gmail.com,0775314742,sale,2023-03-28,new,43.5,Female
+CUST_0093,Fatiha Alami,fatiha.tahiri786@gmail.com,0648848936,tanger,2024-02-18,NEW,41.3,F
+CUST_0094,Hanae El Kabbaj,hanae.benkirane74@gmail.com,0715677713,casa,2023-10-04,New,43.3,
+CUST_0095,Soukaina Slaoui,soukaina.driouech297@gmail.com,0553589647,kenitra,2024-06-13,New,55.7,
+CUST_0096,Said Lamrani,said.fassi406@gmail.com,0755568701,FES,2024-11-11,New,67.7,Homme
+CUST_0097,Loubna Benkirane,loubna.idrissi242@gmail.com,06281926,fez,2025-02-28,VIP,53.6,Female
+CUST_0098,Meryem Sebbar,meryem.filali155@gmail.com,0669352161,tetouan,2022-04-26,Premium,58.6,
+CUST_0099,Loubna Berrada,loubna.bennani59@gmail.com,0620298660,tng,2024-08-05,vip,21.7,F
+CUST_0100,Dounia El Mansouri,dounia.lamrani668@gmail.com,0773837847,rabat,2022-07-31,VIP,15.9,F
+CUST_0101,Sara Ouazzani,,0731306555,meknes,2022-04-18,inactive,24.4,
+CUST_0102,Omar El Amrani,omar.slaoui291@gmail.com,0790893133,meknes,2025-04-08,New,62.3,homme
+CUST_0103,Zineb Slaoui,zineb@invalid,0696368203,agadire,2024-05-17,New,47.7,femme
+CUST_0104,Zineb Benkirane,zineb.tahiri350@gmail.com,0635770506,fes,2022-06-08,NEW,20.8,F
+CUST_0105,Karim El Kabbaj,karim.zahraoui39@gmail.com,0727589104,FES,2024-06-15,Inactive,36.3,
+CUST_0106,Rachid Moussaoui,rachid.sebbar292@gmail.com,0641407343,sale,2023-02-02,VIP,38.0,homme
+CUST_0107,Hind El Mansouri,hind.slaoui515@gmail.com,0536802975,marakech,2025-02-09,REGULAR,44.1,Femme
+CUST_0108,Ismail Berrada,ismail.el mansouri@gmail.com,0568716573,Agadir,2023-12-17,VIP,35.8,M
+CUST_0109,Rachid Slaoui,rachid.moussaoui396@gmail.com,0640137082,meknes,2022-10-09,NEW,69.3,M
+CUST_0110,Ali Idrissi,ali.ait benhaddou460@gmail.com,0512550658,Fès,2024-12-16,premium,46.9,Homme
+CUST_0111,Laila Moussaoui,laila.bennani245@gmail.com,0771352751,oujdaa,2024-11-21,new,63.1,femme
+CUST_0112,Hanae Berrada,hanae.sebbar362@gmail.com,0635140847,RABAT,2024-01-09,premium,50.8,Female
+CUST_0113,Ismail Zahraoui,ismail.zahraoui568@gmail.com,nan,Meknès,2022-08-01,regular,5.0,
+CUST_0114,Yasmine Bennani,yasmine.filali834@gmail.com,0772360629,marakech,2023-01-09,inactive,40.9,Female
+CUST_0115,Omar Bennani,omar.bennani811@gmail.com,0552358553,oujdaa,2023-06-03,VIP,55.2,Homme
+CUST_0116,Amine Benkirane,amine.bennani887@gmail.com,0626706752,essaouira,2024-06-19,vip,36.1,homme
+CUST_0117,Yasmine Ait Benhaddou,yasmine.benkirane947@gmail.com,0621087928,tanger,2023-08-25,premium,41.3,Female
+CUST_0118,Laila Filali,laila.berrada457@gmail.com,0632366682,Meknès,2022-03-28,VIP,37.2,F
+CUST_0119,Fatiha Chakir,fatiha.bennani77@gmail.com,0658762794,Casablanca,2024-06-16,NEW,22.1,Femme
+CUST_0120,Hassan Moussaoui,hassan.benkirane371@gmail.com,0714346684,Essaouira,2024-02-01,REGULAR,40.4,M
+CUST_0121,Sara Idrissi,sara.slaoui322@gmail.com,0525226815,Marrakech,2023-06-18,Regular,49.6,
+CUST_0122,Samira Berrada,samira.ait benhaddou205@gmail.com,0570672142,Essaouira,2023-10-17,New,43.2,
+CUST_0123,Sara El Kabbaj,sara.berrada872@gmail.com,0795590648,Tanger,2023-04-30,NEW,47.2,
+CUST_0124,Fatima El Kabbaj,fatima.el mansouri823@gmail.com,0592134318,Rabat,2024-03-26,Regular,52.1,femme
+CUST_0125,Loubna Driouech,loubna.fassi129@gmail.com,0719954260,tanger,2024-06-05,NEW,24.8,Femme
+CUST_0126,Amina Zahraoui,amina.ouazzani166@gmail.com,0740262109,agadire,2022-06-11,Regular,47.6,F
+CUST_0127,Amine Chakir,amine.el kabbaj@gmail.com,,meknes,2022-03-26,Premium,50.0,
+CUST_0128,Omar Lamrani,omar.tahiri786@gmail.com,0795763946,Tétouan,2023-09-11,inactive,,M
+CUST_0129,Hanae Berrada,hanae.bennani162@gmail.com,0672336371,Salé,2023-12-09,Inactive,46.7,Femme
+CUST_0130,Nadia Zahraoui,nadia.filali248@gmail.com,0670343755,marrakech,2023-08-18,new,57.7,femme
+CUST_0131,Fatiha Moussaoui,fatiha.ouazzani834@gmail.com,0751971886,casa,2023-09-24,VIP,44.6,Femme
+CUST_0132,Fatima Slaoui,fatima.moussaoui221@gmail.com,0516783418,marakech,2025-01-04,Regular,48.6,F
+CUST_0133,Karim Idrissi,karim.benkirane783@gmail.com,0563765155,Tétouan,2024-03-02,New,56.6,Homme
+CUST_0134,Meryem Chakir,meryem.sebbar697@gmail.com,0522976369,meknes,2024-01-19,premium,46.9,
+CUST_0135,Amine Zahraoui,amine.bennani47@gmail.com,nan,Salé,2024-03-15,NEW,57.1,
+CUST_0136,Salma Filali,salma.zahraoui546@gmail.com,0750237208,Casablanca,2023-11-10,REGULAR,62.4,
+CUST_0137,Soukaina Berrada,soukaina.alami612@gmail.com,0787641510,FES,2024-02-18,premium,25.1,
+CUST_0138,Said Lamrani,said.el amrani196@gmail.com,nan,Mohammedia,2024-08-23,premium,33.0,M
+CUST_0139,Hassan Tahiri,hassan.ait benhaddou539@gmail.com,0571694994,Oujda,2024-09-18,Premium,51.4,
+CUST_0140,Said El Kabbaj,said.berrada790@gmail.com,0575632882,Meknès,2023-07-15,premium,36.2,homme
+CUST_0141,Karim El Kabbaj,karim.slaoui839@gmail.com,0548983895,Essaouira,2023-06-10,inactive,70.9,
+CUST_0142,Samira El Kabbaj,samira.el kabbaj713@gmail.com,0592634772,oujda,2022-04-14,regular,49.8,Female
+CUST_0143,Said Bennani,said.ait benhaddou@gmail.com,,marakech,2023-02-13,inactive,18.6,Male
+CUST_0144,Brahim Bennani,brahim.fassi668@gmail.com,0715006085,tanger,2022-12-27,vip,57.5,homme
+CUST_0145,Nabil Ouazzani,nabil.berrada898@gmail.com,0386230551,oujdaa,2024-10-08,premium,51.8,Homme
+CUST_0146,Ismail Chakir,ismail.el amrani339@gmail.com,0697011385,tanger,2023-11-22,new,37.3,Homme
+CUST_0147,Jamal Ouazzani,jamal.slaoui847@gmail.com,0621641746,marakech,2023-05-24,REGULAR,37.6,Male
+CUST_0148,Mohamed Moussaoui,mohamed.chakir977@gmail.com,0786890296,oujda,2022-08-31,new,95.0,Homme
+CUST_0149,Salma Slaoui,salma.berrada707@gmail.com,0659330907,Fès,2024-02-05,VIP,35.7,Female
+CUST_0150,Dounia El Kabbaj,dounia.tahiri781@gmail.com,0720988446,agadire,2024-01-11,Inactive,36.4,Femme
+CUST_0151,Jamal Bennani,jamal.zahraoui208@gmail.com,0532083803,agadir,2025-04-09,Inactive,35.1,M
+CUST_0152,Sara El Mansouri,sara.el mansouri136@gmail.com,0685686878,casa,2023-09-24,inactive,54.8,
+CUST_0153,Nabil Alami,nabil.lamrani75@gmail.com,0318557710,CASABLANCA,2024-04-17,Regular,46.2,homme
+CUST_0154,Hassan Benkirane,hassan.slaoui460@gmail.com,0660418290,oujdaa,2023-12-14,NEW,40.2,Homme
+CUST_0155,Mehdi Slaoui,mehdi.moussaoui855@gmail.com,06585494,casa,2022-11-14,REGULAR,31.6,
+CUST_0156,Amine Bennani,amine.driouech630@gmail.com,0542301683,marrakech,2022-03-10,Premium,47.4,M
+CUST_0157,Fatiha Moussaoui,fatiha.slaoui450@gmail.com,0517575790,Salé,2023-10-19,Premium,66.2,F
+CUST_0158,Ali Zahraoui,ali.berrada282@gmail.com,nan,rabat,2024-02-20,REGULAR,71.4,Male
+CUST_0159,Yasmine Driouech,yasmine.slaoui189@gmail.com,0642342202,casa,2025-02-25,new,47.9,Femme
+CUST_0160,Soukaina Zahraoui,soukaina.tahiri@gmail.com,0570369365,RABAT,2023-01-26,premium,33.8,
+CUST_0161,Mohamed Sebbar,mohamed.fassi193@gmail.com,0785007641,sale,2023-03-10,new,43.7,Homme
+CUST_0162,Karim Moussaoui,karim.tahiri407@gmail.com,0753166435,Kénitra,2024-12-28,VIP,50.0,Homme
+CUST_0163,Imane Zahraoui,imane.el mansouri101@gmail.com,0773013937,Salé,2022-04-04,vip,42.8,femme
+CUST_0164,Hanae Alami,hanae.lamrani594@gmail.com,0630456313,Agadir,2025-03-12,vip,31.5,Female
+CUST_0165,Anas Filali,anas.ait benhaddou990@gmail.com,0775846624,fes,2025-01-24,Inactive,23.1,
+CUST_0166,Khadija Bennani,khadija.fassi968@gmail.com,0510856822,Agadir,2022-11-06,New,46.7,
+CUST_0167,Amine El Mansouri,amine.sebbar654@gmail.com,0774854563,Mohammedia,2022-02-04,new,40.8,
+CUST_0168,Imane Berrada,,0524363501,agadire,2023-05-09,NEW,40.2,
+CUST_0169,Tarik Chakir,tarik.chakir815@gmail.com,0664496076,sale,2022-06-15,inactive,33.3,
+CUST_0170,Youssef Slaoui,youssef.el kabbaj488@gmail.com,nan,meknes,2022-07-15,Premium,44.3,M
+CUST_0171,Amina Tahiri,amina.lamrani487@gmail.com,0547631028,Casablanca,2022-10-23,regular,95.0,Female
+CUST_0172,Sara Ouazzani,sara.lamrani855@gmail.com,0782553061,fes,2022-06-10,Inactive,32.9,femme
+CUST_0173,Zineb El Amrani,zineb.fassi349@gmail.com,0789941241,Essaouira,2023-04-13,VIP,95.0,F
+CUST_0174,Dounia Driouech,dounia.lamrani677@gmail.com,0749645162,Rabat,2023-07-03,New,54.5,Femme
+CUST_0175,Nabil Slaoui,nabil.el amrani94@gmail.com,None,tng,2022-07-31,vip,46.1,Male
+CUST_0176,Omar El Kabbaj,omar@,0549171088,RABAT,2025-02-19,Inactive,45.1,homme
+CUST_0177,Jamal Ouazzani,jamal.ouazzani143@gmail.com,0676185975,sale,2022-06-07,VIP,46.4,
+CUST_0178,Imane Ait Benhaddou,imane.tahiri469@gmail.com,None,Kénitra,2024-06-20,REGULAR,47.8,Female
+CUST_0179,Soukaina Idrissi,soukaina.sebbar971@gmail.com,0652168966,fez,2023-05-12,Premium,47.3,
+CUST_0180,Rania Slaoui,rania.lamrani205@gmail.com,0734149421,Casablanca,2024-08-03,Inactive,52.9,femme
+CUST_0181,Hamza Fassi,hamza.driouech690@gmail.com,0750645509,Kénitra,2024-07-08,New,42.9,homme
+CUST_0182,Asmae Slaoui,asmae.driouech557@gmail.com,0382062301,oujda,2023-12-29,inactive,59.6,
+CUST_0183,Tarik Lamrani,tarik.slaoui991@gmail.com,0624219637,agadire,2025-04-03,premium,51.3,M
+CUST_0184,Hanae Benkirane,hanae.lamrani708@gmail.com,0613296743,Tétouan,2022-06-25,vip,42.6,Femme
+CUST_0185,Hassan Berrada,hassan.tahiri534@gmail.com,0623102741,sale,2022-08-24,new,24.8,homme
+CUST_0186,Brahim Ouazzani,brahim.moussaoui529@gmail.com,0554424679,casa,2024-04-09,regular,49.0,M
+CUST_0187,Soukaina Alami,soukaina.tahiri461@gmail.com,0610597274,Rabat,2022-07-28,Premium,39.7,Femme
+CUST_0188,Khadija Filali,khadija.el amrani269@gmail.com,0680828710,Salé,2024-03-06,Premium,34.2,femme
+CUST_0189,Rania El Amrani,rania.el mansouri633@gmail.com,0749922369,Salé,2023-05-04,New,56.0,
+CUST_0190,Karim Benkirane,karim.zahraoui398@gmail.com,0587149161,tanger,2025-01-05,VIP,34.2,Male
+CUST_0191,Mehdi Ouazzani,mehdi.idrissi192@gmail.com,0693135800,Tanger,2025-02-24,vip,12.0,
+CUST_0192,Asmae Ait Benhaddou,asmae.el mansouri501@gmail.com,0714142053,Agadir,2022-03-08,Regular,45.7,Femme
+CUST_0193,Said Berrada,said.el mansouri580@gmail.com,0683782999,oujdaa,2025-01-15,REGULAR,26.4,
+CUST_0194,Hamza Tahiri,hamza.el amrani754@gmail.com,0549957816,CASABLANCA,2023-06-23,VIP,40.9,
+CUST_0195,Sara El Amrani,sara.moussaoui215@gmail.com,0757060874,fes,2023-02-28,regular,52.6,Femme
+CUST_0196,Jamal El Kabbaj,jamal.el kabbaj173@gmail.com,0749276764,tetouan,2022-07-15,premium,29.4,homme
+CUST_0197,Rachid Chakir,rachid.idrissi719@gmail.com,0529628462,mohammedia,2022-10-19,VIP,36.6,M
+CUST_0198,Imane Slaoui,imane.fassi413@gmail.com,0659535894,fez,2025-04-06,REGULAR,20.1,Femme
+CUST_0199,Omar Benkirane,omar.el kabbaj408@gmail.com,0638434222,fes,2024-09-20,Premium,31.4,Homme
+CUST_0200,Amina El Amrani,amina.el mansouri17@gmail.com,0569228397,essaouira,2022-09-28,regular,42.4,F
+CUST_0201,Imane Benkirane,imane.benkirane681@gmail.com,0516950770,Agadir,2022-07-06,vip,33.9,F
+CUST_0202,Ahmed Ait Benhaddou,,,Agadir,2022-07-02,vip,48.2,Male
+CUST_0203,Karim Benkirane,karim.idrissi392@gmail.com,0596110892,casablanca,2022-12-03,Premium,48.7,homme
+CUST_0204,Zineb Idrissi,zineb.sebbar704@gmail.com,0521635070,fes,2024-02-26,New,41.7,Female
+CUST_0205,Soukaina Idrissi,soukaina.fassi255@gmail.com,0791549765,agadir,2024-11-09,premium,95.0,femme
+CUST_0206,Nabil Bennani,nabil.moussaoui507@gmail.com,0577052833,Rabat,2022-01-25,premium,69.9,homme
+CUST_0207,Yasmine Slaoui,yasmine.lamrani431@gmail.com,0733188838,Casablanca,2022-05-19,Premium,44.4,Female
+CUST_0208,Mohamed Bennani,mohamed.slaoui519@gmail.com,0777249653,essaouira,2024-04-03,Inactive,12.3,Male
+CUST_0209,Adil Sebbar,adil.fassi318@gmail.com,None,Rabat,2024-06-14,Regular,28.8,
+CUST_0210,Youssef Fassi,youssef.el amrani465@gmail.com,0551512209,tanger,2022-01-26,New,52.8,Male
+CUST_0211,Ahmed Ait Benhaddou,ahmed.zahraoui530@gmail.com,0744795538,tetouan,2022-08-30,Inactive,45.1,Male
+CUST_0212,Brahim Chakir,brahim.chakir730@gmail.com,0720344164,tng,2022-04-24,REGULAR,47.4,Homme
+CUST_0213,Hind Benkirane,hind.el amrani916@gmail.com,0725479814,oujda,2024-08-24,new,5.0,Female
+CUST_0214,Rania Ouazzani,rania.bennani567@gmail.com,0798007006,Salé,2024-05-02,regular,56.2,Female
+CUST_0215,Imane Lamrani,imane.zahraoui690@gmail.com,0539955391,Rabat,2023-08-02,VIP,53.3,F
+CUST_0216,Brahim El Kabbaj,brahim.benkirane206@gmail.com,0693579731,kenitra,2024-10-07,Premium,10.1,M
+CUST_0217,Adil Idrissi,adil.moussaoui@gmail.com,0711287794,sale,2023-02-25,New,42.6,Male
+CUST_0218,Hanae Ait Benhaddou,hanae.idrissi729@gmail.com,0541067722,agadire,2024-02-02,vip,41.8,Femme
+CUST_0219,Sara El Amrani,sara.slaoui77@gmail.com,0568382413,Salé,2023-10-31,vip,38.7,
+CUST_0220,Meryem Moussaoui,meryem.lamrani@gmail.com,nan,Marrakech,2024-01-04,premium,36.6,femme
+CUST_0221,Hamza El Mansouri,hamza.el amrani93@gmail.com,0750831043,Fès,2023-05-24,New,95.0,homme
+CUST_0222,Rania Bennani,rania.chakir840@gmail.com,0564276605,oujda,2024-08-04,New,25.6,
+CUST_0223,Hassan Alami,bad_email,0659961172,Oujda,2022-02-14,New,31.0,M
+CUST_0224,Amine Idrissi,amine@,0616796477,essaouira,2024-03-19,Inactive,16.0,Homme
+CUST_0225,Fatima Driouech,fatima.tahiri931@gmail.com,0669862640,oujda,2023-08-28,inactive,44.4,Femme
+CUST_0226,Soukaina Ait Benhaddou,soukaina.idrissi@gmail.com,0780573568,oujdaa,2024-02-23,new,39.9,
+CUST_0227,Asmae Ait Benhaddou,asmae.lamrani515@gmail.com,0634134478,rabat,2024-12-20,VIP,95.0,
+CUST_0228,Hind Ouazzani,hind@,0717503932,Agadir,2024-03-06,Premium,44.6,Female
+CUST_0229,Khadija Moussaoui,khadija.benkirane936@gmail.com,0757201978,Tanger,2025-01-15,VIP,56.6,Female
+CUST_0230,Mehdi Bennani,mehdi.moussaoui@gmail.com,06447848,fes,2022-12-30,REGULAR,37.0,Homme
+CUST_0231,Amina Idrissi,amina.idrissi793@gmail.com,0758974686,mohammedia,2022-07-26,Premium,53.3,F
+CUST_0232,Salma Idrissi,salma.driouech811@gmail.com,0697131500,Meknès,2022-12-26,regular,39.2,femme
+CUST_0233,Salma Idrissi,salma.alami972@gmail.com,0762559853,tanger,2023-10-14,Premium,54.2,femme
+CUST_0234,Hanae El Amrani,hanae.idrissi340@gmail.com,0556548066,FES,2022-07-01,inactive,25.4,
+CUST_0235,Brahim Alami,brahim.moussaoui710@gmail.com,0324500158,FES,2024-10-06,vip,54.3,Homme
+CUST_0236,Zineb Slaoui,zineb.lamrani@gmail.com,0740277201,Rabat,2023-08-27,new,45.8,
+CUST_0237,Brahim El Amrani,brahim.slaoui@gmail.com,0583423305,marakech,2022-03-05,Inactive,73.0,homme
+CUST_0238,Khadija Driouech,khadija.el amrani340@gmail.com,0564932613,oujdaa,2023-07-31,Regular,30.1,
+CUST_0239,Said Bennani,said.el kabbaj861@gmail.com,0558429638,marakech,2022-07-18,regular,47.1,M
+CUST_0240,Amine Berrada,amine.ait benhaddou865@gmail.com,0673209094,Oujda,2025-01-19,New,42.1,Male
+CUST_0241,Khadija Slaoui,khadija.el mansouri46@gmail.com,0645353058,marrakech,2023-12-06,New,43.4,femme
+CUST_0242,Soukaina Moussaoui,soukaina.slaoui839@gmail.com,0773729850,oujda,2023-09-05,VIP,51.4,
+CUST_0243,Nabil Zahraoui,nabil.zahraoui820@gmail.com,0729790089,FES,2023-01-30,regular,56.7,M
+CUST_0244,Youssef Fassi,youssef.driouech207@gmail.com,0729847882,Oujda,2022-05-18,REGULAR,55.8,Homme
+CUST_0245,Nabil Slaoui,nabil.chakir533@gmail.com,0593625419,Fès,2025-03-06,NEW,24.2,
+CUST_0246,Hind El Amrani,hind.el amrani805@gmail.com,0756153339,Oujda,2024-09-21,vip,31.1,F
+CUST_0247,Fatiha Bennani,fatiha.slaoui148@gmail.com,0763917932,oujda,2024-08-31,new,66.4,Femme
+CUST_0248,Driss Filali,driss.berrada319@gmail.com,0623182514,Agadir,2023-09-08,NEW,48.1,M
+CUST_0249,Yasmine Driouech,yasmine.fassi193@gmail.com,0675023164,tng,2022-05-15,NEW,43.4,femme
+CUST_0250,Ismail Idrissi,ismail.zahraoui901@gmail.com,0535872271,Tanger,2023-05-26,new,17.9,Homme
+CUST_0251,Hamza Benkirane,hamza.chakir378@gmail.com,0763276690,fez,2024-07-02,Premium,95.0,M
+CUST_0252,Anas El Kabbaj,anas.ouazzani858@gmail.com,0722132198,Kénitra,2022-11-30,new,37.4,
+CUST_0253,Samira Moussaoui,samira.chakir668@gmail.com,0511194267,casablanca,2023-06-01,regular,35.7,Female
+CUST_0254,Salma Driouech,salma.benkirane471@gmail.com,0650553227,mohammedia,2022-07-29,Premium,43.0,femme
+CUST_0255,Ismail El Kabbaj,ismail.sebbar290@gmail.com,0574657836,tetouan,2023-09-04,Regular,75.0,homme
+CUST_0256,Hassan Moussaoui,hassan.sebbar414@gmail.com,0728781020,fez,2023-06-16,Regular,56.0,
+CUST_0257,Rania Bennani,rania.lamrani836@gmail.com,0739845082,Meknès,2023-09-07,premium,35.3,Femme
+CUST_0258,Adil Berrada,adil.chakir@gmail.com,0734571018,meknes,2022-07-02,inactive,26.2,Male
+CUST_0259,Driss Berrada,driss.filali381@gmail.com,0672244897,Rabat,2023-02-03,VIP,50.0,Male
+CUST_0260,Laila Zahraoui,laila.bennani892@gmail.com,0536883353,casa,2023-10-10,NEW,31.1,Femme
+CUST_0261,Omar Filali,omar.ouazzani321@gmail.com,0570673557,FES,2022-06-30,VIP,39.0,Homme
+CUST_0262,Tarik Driouech,tarik.ait benhaddou393@gmail.com,None,agadire,2022-02-06,regular,62.1,Homme
+CUST_0263,Hanae Benkirane,hanae.el amrani393@gmail.com,0632417070,casa,2024-12-01,Inactive,45.4,Female
+CUST_0264,Loubna Driouech,loubna.idrissi351@gmail.com,0658217837,FES,2022-02-09,vip,43.5,femme
+CUST_0265,Said Tahiri,said.lamrani517@gmail.com,0697314051,oujdaa,2022-04-10,Premium,45.0,Male
+CUST_0266,Amina Alami,amina.el mansouri@gmail.com,0743921959,Fès,2022-01-20,regular,30.8,F
+CUST_0267,Rachid Zahraoui,rachid.sebbar718@gmail.com,0578663747,marrakech,2023-02-11,VIP,40.8,M
+CUST_0268,Samira Zahraoui,samira.benkirane721@gmail.com,0515288944,agadir,2024-09-11,Inactive,36.1,femme
+CUST_0269,Hanae Alami,hanae.el amrani856@gmail.com,0630017834,marrakech,2023-04-19,Regular,61.8,F
+CUST_0270,Salma El Mansouri,salma@invalid,0651970837,Marrakech,2022-04-04,New,35.5,femme
+CUST_0271,Hassan Filali,hassan.el mansouri979@gmail.com,0722475714,mohammedia,2023-07-11,VIP,34.3,Male
+CUST_0272,Asmae Ouazzani,asmae@invalid,0523920137,marakech,2024-06-16,Premium,49.9,Femme
+CUST_0273,Tarik Benkirane,tarik.idrissi495@gmail.com,0565201639,casablanca,2024-12-10,Inactive,38.0,Homme
+CUST_0274,Hind Filali,hind.sebbar98@gmail.com,0743363439,Kénitra,2025-02-17,NEW,43.6,Female
+CUST_0275,Amina Ouazzani,amina.ait benhaddou873@gmail.com,0520048242,tetouan,2024-11-04,new,42.1,F
+CUST_0276,Adil Slaoui,adil.fassi471@gmail.com,0770142774,fez,2023-10-10,VIP,31.4,Homme
+CUST_0277,Anas El Amrani,anas.bennani571@gmail.com,0591094790,agadir,2024-07-23,inactive,58.6,M
+CUST_0278,Zineb Moussaoui,zineb.filali574@gmail.com,0773502927,kenitra,2024-07-15,Inactive,38.1,F
+CUST_0279,Karim Alami,karim.berrada561@gmail.com,0724270328,Mohammedia,2023-06-05,New,48.9,Male
+CUST_0280,Samira El Amrani,samira.slaoui221@gmail.com,0555356673,Mohammedia,2022-09-10,new,44.0,Female
+CUST_0281,Meryem Zahraoui,meryem.zahraoui@gmail.com,0768090825,tanger,2025-03-30,Inactive,49.3,
+CUST_0282,Hassan Slaoui,hassan.sebbar904@gmail.com,0666192230,oujda,2024-03-25,Regular,30.3,M
+CUST_0283,Salma Idrissi,salma@,0752132393,Tanger,2023-08-19,regular,35.3,Femme
+CUST_0284,Nadia Zahraoui,nadia.filali728@gmail.com,0685467972,Mohammedia,2024-12-29,inactive,14.7,Female
+CUST_0285,Rachid Zahraoui,rachid.bennani@gmail.com,0545833216,Oujda,2022-05-08,NEW,42.0,M
+CUST_0286,Amine Bennani,amine.el mansouri105@gmail.com,0785414925,Kénitra,2024-11-12,regular,34.9,
+CUST_0287,Youssef Slaoui,youssef.filali990@gmail.com,0543734435,Essaouira,2024-01-24,regular,49.0,Homme
+CUST_0288,Dounia Tahiri,dounia.tahiri302@gmail.com,0719995059,tanger,2024-11-18,Inactive,65.1,
+CUST_0289,Nabil Driouech,nabil.chakir134@gmail.com,0610757677,Fès,2022-04-15,REGULAR,32.8,M
+CUST_0290,Ali Lamrani,ali.fassi803@gmail.com,0739522801,agadire,2024-10-31,New,58.5,Homme
+CUST_0291,Rachid El Kabbaj,rachid.benkirane227@gmail.com,0754544651,agadire,2025-02-23,VIP,37.1,
+CUST_0292,Zineb Moussaoui,zineb.sebbar941@gmail.com,0553075436,Marrakech,2023-06-10,vip,50.7,Femme
+CUST_0293,Salma Zahraoui,salma.benkirane527@gmail.com,0675337822,tng,2022-07-16,New,66.7,F
+CUST_0294,Adil Alami,adil.tahiri687@gmail.com,0566936428,agadir,2024-06-10,premium,49.0,
+CUST_0295,Omar Alami,omar.filali39@gmail.com,None,Oujda,2024-03-05,vip,27.3,Male
+CUST_0296,Rania Filali,rania@invalid,0718487605,CASABLANCA,2022-05-29,Inactive,36.4,Femme
+CUST_0297,Loubna Berrada,loubna.berrada622@gmail.com,0461192463,mohammedia,2023-08-28,premium,27.4,F
+CUST_0298,Zineb El Kabbaj,zineb.idrissi127@gmail.com,0482095327,Meknès,2024-04-25,regular,44.4,F
+CUST_0299,Hassan Ouazzani,hassan.chakir199@gmail.com,0786140729,casa,2025-01-30,inactive,56.0,Male
+CUST_0300,Ali Chakir,,0627208745,oujda,2023-08-07,New,23.2,M
+CUST_0301,Sara Filali,sara.filali632@gmail.com,0788405961,essaouira,2022-01-10,NEW,50.9,Female
+CUST_0302,Hanae Driouech,hanae.benkirane138@gmail.com,0674418331,Meknès,2024-09-24,Regular,54.7,Female
+CUST_0303,Laila Sebbar,laila.idrissi@gmail.com,0545330756,Casablanca,2022-03-05,premium,40.3,Female
+CUST_0304,Hind Lamrani,hind.bennani565@gmail.com,0773364719,Fès,2024-03-14,REGULAR,25.2,Femme
+CUST_0305,Jamal Idrissi,jamal.zahraoui93@gmail.com,0711421591,FES,2022-10-15,premium,29.9,homme
+CUST_0306,Khadija Lamrani,khadija.idrissi754@gmail.com,0615425057,fez,2022-05-09,regular,22.1,Female
+CUST_0307,Driss Bennani,driss.zahraoui930@gmail.com,0673038607,marrakech,2024-12-03,Inactive,95.0,Male
+CUST_0308,Mohamed El Kabbaj,mohamed.slaoui670@gmail.com,0797689346,Rabat,2023-05-31,premium,29.8,
+CUST_0309,Hanae Slaoui,hanae.benkirane499@gmail.com,0710885526,Rabat,2023-07-30,premium,35.4,
+CUST_0310,Hassan Ouazzani,hassan.el amrani677@gmail.com,0625212062,marakech,2023-03-08,VIP,41.9,Male
+CUST_0311,Khadija Alami,khadija.idrissi588@gmail.com,0594495485,FES,2023-01-04,Regular,16.8,Femme
+CUST_0312,Rania Lamrani,rania.berrada970@gmail.com,nan,Mohammedia,2022-10-20,Premium,40.0,
+CUST_0313,Khadija Zahraoui,khadija.filali945@gmail.com,0719239937,Tanger,2024-10-29,premium,43.5,
+CUST_0314,Nadia El Amrani,nadia.sebbar615@gmail.com,,oujdaa,2024-06-02,new,53.7,
+CUST_0315,Soukaina Bennani,soukaina.driouech235@gmail.com,0661168696,marrakech,2022-10-02,vip,29.2,femme
+CUST_0316,Anas Fassi,anas.el kabbaj419@gmail.com,0510954835,Marrakech,2022-01-15,premium,59.5,Male
+CUST_0317,Samira Driouech,samira.idrissi437@gmail.com,0645071480,tetouan,2024-03-24,inactive,49.7,femme
+CUST_0318,Rachid El Kabbaj,rachid.benkirane573@gmail.com,0651158280,mohammedia,2022-10-10,Inactive,32.0,
+CUST_0319,Hanae Ouazzani,hanae@,0716986408,Fès,2024-06-10,VIP,5.0,Femme
+CUST_0320,Omar Moussaoui,omar.sebbar39@gmail.com,0692405066,Tétouan,2022-04-28,Inactive,68.3,homme
+CUST_0321,Anas Alami,anas.zahraoui293@gmail.com,0778524572,CASABLANCA,2023-05-05,REGULAR,33.3,Homme
+CUST_0322,Khadija Chakir,khadija.benkirane686@gmail.com,0736885204,Rabat,2025-01-30,New,41.1,F
+CUST_0323,Adil Benkirane,adil.chakir232@gmail.com,0571036720,Mohammedia,2022-08-07,premium,56.2,
+CUST_0324,Sara Berrada,sara.el amrani823@gmail.com,0682196170,Oujda,2024-06-25,Inactive,35.3,
+CUST_0325,Hind Moussaoui,hind.el mansouri698@gmail.com,0713670948,Agadir,2023-04-16,inactive,32.8,Femme
+CUST_0326,Soukaina Zahraoui,soukaina.chakir255@gmail.com,0655901507,tanger,2023-10-05,VIP,43.0,femme
+CUST_0327,Samira Chakir,samira.tahiri511@gmail.com,0542488275,oujda,2023-12-31,Premium,47.7,
+CUST_0328,Karim Fassi,karim.ait benhaddou629@gmail.com,06489227,tetouan,2023-01-10,VIP,36.1,M
+CUST_0329,Imane Moussaoui,imane.idrissi56@gmail.com,0674199033,tanger,2022-09-04,VIP,44.9,Femme
+CUST_0330,Meryem Alami,meryem.lamrani@gmail.com,,oujda,2024-08-23,Regular,40.9,femme
+CUST_0331,Yasmine Ouazzani,yasmine.tahiri430@gmail.com,0658999937,fes,2023-04-14,Premium,47.9,femme
+CUST_0332,Mohamed El Kabbaj,mohamed.slaoui201@gmail.com,0730072000,casablanca,2024-05-13,NEW,34.3,Male
+CUST_0333,Nadia El Kabbaj,nadia.ait benhaddou308@gmail.com,0716403434,Oujda,2022-07-17,VIP,27.2,
+CUST_0334,Yasmine Benkirane,yasmine.el kabbaj955@gmail.com,0612662253,Meknès,2023-02-12,inactive,53.0,femme
+CUST_0335,Hind Ouazzani,hind.berrada364@gmail.com,0775430302,Tétouan,2022-10-24,VIP,44.0,
+CUST_0336,Brahim Sebbar,brahim.fassi82@gmail.com,0552074850,Tétouan,2023-07-02,Inactive,29.1,Homme
+CUST_0337,Rania El Mansouri,rania.benkirane766@gmail.com,0665564671,oujda,2023-05-31,inactive,53.7,femme
+CUST_0338,Amine Slaoui,amine.ait benhaddou@gmail.com,0563286118,RABAT,2023-06-22,New,62.4,Male
+CUST_0339,Nadia Slaoui,nadia.moussaoui756@gmail.com,0726966692,Salé,2024-08-14,VIP,95.0,F
+CUST_0340,Imane El Mansouri,bad_email,0694697764,essaouira,2024-12-29,premium,58.8,
+CUST_0341,Driss El Kabbaj,driss.fassi453@gmail.com,0644870711,fes,2023-08-11,REGULAR,43.0,Homme
+CUST_0342,Dounia Ait Benhaddou,dounia.ait benhaddou307@gmail.com,,kenitra,2024-04-23,regular,43.5,F
+CUST_0343,Soukaina Moussaoui,soukaina.slaoui849@gmail.com,0620631350,tetouan,2024-12-25,Regular,34.2,Femme
+CUST_0344,Rachid Fassi,rachid.berrada114@gmail.com,0770769389,fez,2023-10-19,regular,46.2,Male
+CUST_0345,Hassan El Kabbaj,hassan@,0768843284,fez,2023-12-02,regular,40.7,M
+CUST_0346,Salma Benkirane,salma.bennani339@gmail.com,nan,marakech,2023-01-29,NEW,33.4,Femme
+CUST_0347,Nabil El Amrani,nabil.moussaoui395@gmail.com,0643173547,marrakech,2023-03-03,premium,41.8,M
+CUST_0348,Rania Filali,rania.bennani763@gmail.com,0726393556,sale,2024-01-09,regular,38.9,femme
+CUST_0349,Amine Moussaoui,amine.filali16@gmail.com,0688476684,marakech,2022-11-14,Inactive,5.0,M
+CUST_0350,Sara Ouazzani,sara.sebbar347@gmail.com,0718060088,Fès,2025-01-03,Inactive,56.5,Female
+CUST_0351,Hassan Moussaoui,hassan.el kabbaj808@gmail.com,0668883853,fes,2022-03-22,Regular,41.7,Homme
+CUST_0352,Meryem Berrada,meryem.ait benhaddou195@gmail.com,0756662763,casa,2025-02-09,Regular,39.5,
+CUST_0353,Omar Idrissi,omar.chakir555@gmail.com,0595634408,kenitra,2023-05-05,Premium,22.5,
+CUST_0354,Sara Slaoui,sara.ait benhaddou785@gmail.com,0748000942,Salé,2022-07-17,New,41.3,
+CUST_0355,Sara Idrissi,sara.bennani207@gmail.com,06133362,Oujda,2024-01-21,new,34.5,F
+CUST_0356,Tarik Alami,tarik.tahiri672@gmail.com,0572821834,rabat,2025-02-16,REGULAR,32.7,M
+CUST_0357,Zineb Sebbar,zineb.bennani752@gmail.com,06326387,Tanger,2024-12-13,regular,57.8,F
+CUST_0358,Khadija El Kabbaj,khadija.el amrani785@gmail.com,0671568435,essaouira,2022-12-08,New,53.1,
+CUST_0359,Adil Zahraoui,adil.ouazzani547@gmail.com,0657288136,kenitra,2024-05-31,vip,54.4,Homme
+CUST_0360,Fatiha Lamrani,fatiha.slaoui785@gmail.com,0744103265,Essaouira,2024-03-24,VIP,33.3,Female
+CUST_0361,Youssef Sebbar,youssef.berrada@gmail.com,None,tetouan,2024-11-13,premium,64.1,homme
+CUST_0362,Hind Idrissi,hind.idrissi@gmail.com,0688135616,Oujda,2022-07-08,Regular,45.0,
+CUST_0363,Rania Tahiri,rania.filali812@gmail.com,0687340611,CASABLANCA,2025-03-26,Inactive,44.3,
+CUST_0364,Sara Filali,sara.driouech427@gmail.com,0540429530,casablanca,2024-02-23,inactive,37.1,F
+CUST_0365,Ali Bennani,ali.lamrani154@gmail.com,0739634895,Essaouira,2025-03-24,Premium,52.3,
+CUST_0366,Sara Driouech,sara.slaoui152@gmail.com,0573868130,rabat,2024-03-28,premium,56.7,Female
+CUST_0367,Omar Zahraoui,omar.idrissi781@gmail.com,0736589676,agadire,2023-05-12,regular,24.6,Homme
+CUST_0368,Mohamed Filali,mohamed.lamrani92@gmail.com,0666846657,Tanger,2023-12-07,REGULAR,43.3,Homme
+CUST_0369,Fatima Ouazzani,fatima.sebbar842@gmail.com,0693642093,Tanger,2024-02-05,inactive,44.2,femme
+CUST_0370,Omar Bennani,omar.sebbar949@gmail.com,0611843251,Marrakech,2024-07-10,Regular,44.9,M
+CUST_0371,Fatima Tahiri,fatima.tahiri209@gmail.com,0683658696,Casablanca,2025-04-08,vip,22.7,femme
+CUST_0372,Mohamed Bennani,mohamed.sebbar278@gmail.com,None,kenitra,2022-02-09,New,44.1,Male
+CUST_0373,Nabil Slaoui,nabil.el amrani926@gmail.com,0781344862,Casablanca,2023-05-22,new,48.8,Male
+CUST_0374,Salma Ait Benhaddou,salma.ouazzani19@gmail.com,0657698045,oujda,2023-07-19,premium,46.2,femme
+CUST_0375,Mohamed Alami,mohamed.chakir231@gmail.com,0698171888,Agadir,2023-05-08,vip,54.6,Homme
+CUST_0376,Nadia Berrada,nadia.filali460@gmail.com,0597573396,oujdaa,2023-02-19,inactive,56.7,Femme
+CUST_0377,Ali Idrissi,ali.idrissi672@gmail.com,0552613620,tanger,2022-10-26,REGULAR,55.5,
+CUST_0378,Brahim Driouech,brahim.chakir156@gmail.com,0527655789,tetouan,2025-03-07,Premium,48.1,Homme
+CUST_0379,Hanae Moussaoui,hanae.alami368@gmail.com,06626725,Kénitra,2024-08-28,VIP,25.0,
+CUST_0380,Mehdi Moussaoui,mehdi@invalid,0639870720,Tanger,2022-05-16,regular,45.4,Male
+CUST_0381,Hamza Ait Benhaddou,hamza.el mansouri909@gmail.com,0615613827,mohammedia,2025-03-17,Premium,24.6,
+CUST_0382,Dounia Bennani,dounia.el mansouri468@gmail.com,0542980201,mohammedia,2022-03-22,Inactive,28.0,
+CUST_0383,Rania Bennani,rania.el mansouri408@gmail.com,0671920968,agadire,2024-08-07,NEW,47.0,
+CUST_0384,Loubna Ouazzani,loubna.el kabbaj139@gmail.com,0670516875,Tanger,2022-07-04,VIP,120.0,F
+CUST_0385,Brahim El Amrani,brahim@,,meknes,2022-11-04,Premium,33.5,Male
+CUST_0386,Hassan Bennani,hassan.berrada748@gmail.com,0648759467,Marrakech,2023-02-20,NEW,50.1,Male
+CUST_0387,Tarik Alami,tarik.ait benhaddou557@gmail.com,0776231992,Mohammedia,2022-06-12,VIP,43.2,homme
+CUST_0388,Fatiha Moussaoui,fatiha.chakir635@gmail.com,0516565770,rabat,2023-12-16,inactive,58.0,F
+CUST_0389,Hassan Lamrani,hassan.berrada340@gmail.com,0524614652,tanger,2025-03-31,VIP,35.5,M
+CUST_0390,Amina Berrada,amina.slaoui840@gmail.com,None,Marrakech,2023-07-17,Inactive,45.7,F
+CUST_0391,Loubna Zahraoui,loubna.tahiri627@gmail.com,06859246,Salé,2024-12-12,Regular,74.2,Femme
+CUST_0392,Fatiha Idrissi,fatiha.ait benhaddou533@gmail.com,0676102828,Agadir,2023-08-18,Inactive,27.8,femme
+CUST_0393,Ahmed Alami,ahmed.el amrani756@gmail.com,0765650977,agadir,2023-02-17,new,32.7,M
+CUST_0394,Mohamed Berrada,mohamed.el kabbaj332@gmail.com,0554732472,Casablanca,2023-02-02,NEW,47.6,M
+CUST_0395,Yasmine Ait Benhaddou,yasmine.idrissi494@gmail.com,0682070563,rabat,2023-09-06,premium,52.6,Femme
+CUST_0396,Yasmine El Kabbaj,yasmine@,0618886963,tetouan,2023-11-26,new,33.9,
+CUST_0397,Dounia Lamrani,dounia.ouazzani610@gmail.com,0652211394,oujda,2024-07-14,REGULAR,39.6,Female
+CUST_0398,Amine Berrada,amine.benkirane804@gmail.com,06565330,tng,2023-01-25,NEW,120.0,
+CUST_0399,Asmae Berrada,asmae.idrissi788@gmail.com,0727812995,agadire,2022-01-09,New,42.9,
+CUST_0400,Youssef Fassi,youssef.bennani106@gmail.com,0751940463,agadir,2023-02-15,REGULAR,95.0,
+CUST_0401,Ali El Kabbaj,ali.el mansouri688@gmail.com,0531138757,tng,2023-02-28,New,41.7,homme
+CUST_0402,Zineb Filali,zineb.berrada588@gmail.com,0551792388,meknes,2024-06-27,premium,44.1,
+CUST_0403,Hassan Ait Benhaddou,hassan.bennani109@gmail.com,0567239263,Essaouira,2023-12-30,Premium,27.4,M
+CUST_0404,Brahim El Kabbaj,,0572850928,sale,2024-08-11,inactive,53.8,Male
+CUST_0405,Hanae Idrissi,hanae.sebbar265@gmail.com,0634609232,Salé,2024-09-25,VIP,36.5,Female
+CUST_0406,Omar El Amrani,omar.el mansouri867@gmail.com,0691126594,tng,2024-04-10,New,25.1,Homme
+CUST_0407,Brahim Fassi,brahim.el kabbaj473@gmail.com,0642021033,Kénitra,2023-11-29,New,31.0,
+CUST_0408,Jamal Driouech,jamal.filali558@gmail.com,0598934311,fez,2024-08-06,New,31.6,Homme
+CUST_0409,Dounia El Mansouri,dounia.slaoui72@gmail.com,0790048179,rabat,2023-03-22,New,43.6,F
+CUST_0410,Jamal Idrissi,jamal.el mansouri545@gmail.com,0787568641,agadir,2023-10-11,inactive,30.4,M
+CUST_0411,Jamal Driouech,jamal.benkirane92@gmail.com,0778507933,kenitra,2022-04-19,premium,36.8,homme
+CUST_0412,Adil El Amrani,adil.alami241@gmail.com,0762917798,Kénitra,2024-02-21,vip,45.5,homme
+CUST_0413,Dounia Ouazzani,dounia.tahiri569@gmail.com,0666000400,fes,2022-05-27,new,65.5,Female
+CUST_0414,Asmae Idrissi,,0791125155,tanger,2024-11-09,VIP,76.2,Femme
+CUST_0415,Dounia Slaoui,dounia.ouazzani435@gmail.com,0776861495,Mohammedia,2025-03-26,premium,47.0,Femme
+CUST_0416,Amina Lamrani,amina.benkirane116@gmail.com,0720745888,agadire,2024-08-10,Regular,34.8,F
+CUST_0417,Sara Sebbar,sara.fassi@gmail.com,0787796412,casablanca,2024-07-18,VIP,40.5,
+CUST_0418,Asmae Filali,asmae.berrada297@gmail.com,0790213415,Oujda,2024-08-27,new,45.7,
+CUST_0419,Khadija Bennani,khadija.berrada829@gmail.com,0548495745,tetouan,2022-09-29,Regular,35.8,
+CUST_0420,Imane Chakir,imane.ouazzani@gmail.com,0730285078,kenitra,2023-06-20,NEW,42.6,femme
+CUST_0421,Anas Zahraoui,anas.filali87@gmail.com,0730689702,Kénitra,2024-06-20,regular,52.5,Male
+CUST_0422,Hind Bennani,hind.el amrani54@gmail.com,0673918769,oujdaa,2024-02-17,regular,24.9,femme
+CUST_0423,Anas Idrissi,anas.driouech13@gmail.com,0661271721,CASABLANCA,2024-12-24,New,28.7,homme
+CUST_0424,Soukaina Chakir,soukaina.chakir822@gmail.com,,Tanger,2023-11-23,premium,14.4,
+CUST_0425,Mehdi El Kabbaj,mehdi.fassi@gmail.com,nan,CASABLANCA,2022-07-08,new,30.5,homme
+CUST_0426,Tarik Sebbar,tarik.el amrani89@gmail.com,0560460287,tanger,2023-01-13,New,57.5,Male
+CUST_0427,Ali Fassi,ali.chakir788@gmail.com,0753406567,rabat,2024-03-06,vip,41.0,Homme
+CUST_0428,Amina Chakir,amina.fassi504@gmail.com,0591913332,fez,2022-10-22,New,62.9,femme
+CUST_0429,Soukaina Sebbar,soukaina.el mansouri733@gmail.com,0519787090,Casablanca,2022-11-01,VIP,59.5,Female
+CUST_0430,Youssef Chakir,youssef.filali927@gmail.com,0579173535,fez,2024-06-12,VIP,50.3,Homme
+CUST_0431,Sara Moussaoui,,0758173202,RABAT,2024-12-30,REGULAR,36.9,
+CUST_0432,Sara Berrada,sara.ouazzani568@gmail.com,None,marrakech,2024-01-06,inactive,50.8,Femme
+CUST_0433,Sara Tahiri,sara.lamrani@gmail.com,0618454727,Essaouira,2022-03-17,new,46.6,Femme
+CUST_0434,Amina Bennani,amina.tahiri827@gmail.com,0771521428,oujdaa,2025-04-01,NEW,25.4,femme
+CUST_0435,Omar Idrissi,omar.alami483@gmail.com,0716147399,sale,2024-07-23,New,5.0,M
+CUST_0436,Khadija Fassi,khadija.el amrani117@gmail.com,0739604743,Tanger,2023-11-22,vip,59.3,
+CUST_0437,Laila El Kabbaj,bad_email,0733279749,Mohammedia,2024-01-28,NEW,38.9,
+CUST_0438,Khadija Moussaoui,khadija.bennani137@gmail.com,nan,casablanca,2022-07-02,NEW,47.2,Femme
+CUST_0439,Ali Ait Benhaddou,ali.tahiri147@gmail.com,0770454232,CASABLANCA,2023-01-04,Premium,17.9,Homme
+CUST_0440,Fatiha Berrada,fatiha.alami572@gmail.com,0581162107,kenitra,2024-11-05,premium,56.9,F
+CUST_0441,Hamza Chakir,hamza.idrissi@gmail.com,0676775311,Tétouan,2024-06-09,regular,95.0,Male
+CUST_0442,Brahim El Mansouri,bad_email,0575103838,Rabat,2024-06-29,regular,58.0,
+CUST_0443,Hind Driouech,hind.filali236@gmail.com,0640572391,Kénitra,2022-05-31,regular,58.0,femme
+CUST_0444,Hind Bennani,hind.idrissi222@gmail.com,0633898911,fes,2023-02-02,VIP,53.3,Femme
+CUST_0445,Imane Filali,imane@invalid,0572482955,Tétouan,2022-11-18,Premium,34.9,Female
+CUST_0446,Mehdi El Kabbaj,mehdi.fassi422@gmail.com,0639050434,casa,2022-01-30,Regular,43.9,
+CUST_0447,Hanae Filali,hanae.moussaoui914@gmail.com,0587000815,tng,2024-05-21,new,120.0,Female
+CUST_0448,Rania El Amrani,rania.moussaoui86@gmail.com,0564575354,fes,2023-08-29,REGULAR,34.6,Femme
+CUST_0449,Omar Ait Benhaddou,omar.ouazzani721@gmail.com,0788337534,mohammedia,2024-01-29,NEW,55.1,M
+CUST_0450,Fatima Slaoui,fatima.filali544@gmail.com,06831963,agadir,2022-06-15,inactive,44.0,F
+CUST_0451,Yasmine Zahraoui,yasmine.benkirane910@gmail.com,06587957,Rabat,2023-02-24,premium,53.1,F
+CUST_0452,Brahim El Kabbaj,brahim.lamrani@gmail.com,0738158070,Agadir,2023-12-24,REGULAR,44.9,Male
+CUST_0453,Ismail Chakir,ismail.el mansouri@gmail.com,0726469781,Tétouan,2024-01-24,VIP,27.5,Homme
+CUST_0454,Omar El Mansouri,omar.ouazzani@gmail.com,0524678711,Marrakech,2022-10-31,Inactive,44.8,Male
+CUST_0455,Nadia Zahraoui,nadia.alami301@gmail.com,0782670169,Casablanca,2023-01-23,Regular,54.4,Female
+CUST_0456,Ahmed Zahraoui,ahmed.driouech593@gmail.com,0753796105,agadire,2024-06-30,premium,36.3,Male
+CUST_0457,Salma Idrissi,salma.berrada176@gmail.com,0574994010,Fès,2023-08-06,REGULAR,35.1,
+CUST_0458,Khadija Ouazzani,khadija.berrada187@gmail.com,0799436783,FES,2022-08-28,regular,49.1,
+CUST_0459,Brahim Idrissi,brahim.benkirane189@gmail.com,0714655890,Essaouira,2022-11-29,premium,25.2,
+CUST_0460,Salma Alami,salma.ait benhaddou787@gmail.com,0652978923,oujdaa,2023-11-10,premium,13.4,F
+CUST_0461,Anas Lamrani,anas.lamrani747@gmail.com,0655457454,fes,2025-02-02,inactive,34.7,homme
+CUST_0462,Ali Slaoui,ali.moussaoui457@gmail.com,0617386489,Tanger,2024-12-14,Premium,23.9,M
+CUST_0463,Mohamed Alami,mohamed@invalid,0636098642,rabat,2024-01-10,inactive,25.7,Male
+CUST_0464,Nadia Benkirane,nadia.alami292@gmail.com,0669804203,RABAT,2024-06-28,regular,43.0,Femme
+CUST_0465,Meryem Ouazzani,meryem.driouech747@gmail.com,0588809974,agadire,2022-05-16,REGULAR,36.5,femme
+CUST_0466,Rania Alami,rania.chakir425@gmail.com,0686224438,fes,2023-01-16,regular,38.1,F
+CUST_0467,Salma Ait Benhaddou,salma@,0772203452,sale,2024-08-25,inactive,45.4,
+CUST_0468,Ali Ouazzani,ali.moussaoui30@gmail.com,0676176080,Rabat,2024-01-11,Premium,63.0,Homme
+CUST_0469,Asmae Driouech,asmae.ait benhaddou998@gmail.com,0560090353,FES,2022-04-30,Premium,26.3,
+CUST_0470,Brahim Idrissi,brahim.bennani280@gmail.com,0757779407,agadire,2022-06-07,inactive,95.0,Homme
+CUST_0471,Samira El Amrani,samira.ouazzani557@gmail.com,0650409241,oujdaa,2023-12-22,Premium,39.5,Female
+CUST_0472,Ahmed Zahraoui,ahmed.ait benhaddou422@gmail.com,0523746292,tng,2023-01-21,regular,60.4,Male
+CUST_0473,Fatiha El Kabbaj,fatiha.el amrani428@gmail.com,0525645176,sale,2024-01-13,Inactive,53.4,
+CUST_0474,Hamza Zahraoui,hamza.filali177@gmail.com,0525917805,Fès,2023-04-10,Inactive,17.3,
+CUST_0475,Hassan Idrissi,hassan.driouech708@gmail.com,0520433455,Tanger,2022-03-09,New,55.7,Male
+CUST_0476,Youssef El Amrani,youssef.bennani68@gmail.com,0522952493,agadir,2023-02-14,Premium,43.6,Homme
+CUST_0477,Driss Fassi,driss.chakir972@gmail.com,0631549640,tng,2022-05-20,Premium,54.8,M
+CUST_0478,Jamal Zahraoui,jamal.tahiri988@gmail.com,0710581018,marrakech,2024-10-29,regular,25.5,M
+CUST_0479,Zineb Ouazzani,zineb.el amrani186@gmail.com,0666920644,Salé,2024-08-12,New,43.9,
+CUST_0480,Ismail Ait Benhaddou,ismail.berrada571@gmail.com,0554038904,Kénitra,2024-07-24,Regular,50.4,Male
+CUST_0481,Salma Moussaoui,salma.berrada876@gmail.com,0573844258,marrakech,2024-06-16,vip,120.0,Femme
+CUST_0482,Sara Idrissi,sara.lamrani105@gmail.com,0518685284,Tanger,2023-02-15,REGULAR,37.7,F
+CUST_0483,Rania Moussaoui,rania.ait benhaddou286@gmail.com,0789678350,mohammedia,2024-09-01,REGULAR,39.0,F
+CUST_0484,Nabil Zahraoui,nabil.el mansouri111@gmail.com,0676742957,fes,2022-07-23,new,63.0,Homme
+CUST_0485,Omar Alami,omar.slaoui620@gmail.com,0550634767,agadire,2024-08-12,VIP,38.1,Homme
+CUST_0486,Ali Ait Benhaddou,ali.el kabbaj352@gmail.com,0783366099,essaouira,2024-02-25,New,5.0,Homme
+CUST_0487,Yasmine El Mansouri,yasmine.bennani182@gmail.com,0632031067,fez,2025-03-11,New,35.6,Femme
+CUST_0488,Adil Lamrani,adil.el kabbaj875@gmail.com,0562530781,Kénitra,2023-12-24,Premium,42.3,
+CUST_0489,Brahim Alami,brahim.idrissi858@gmail.com,0788378721,marrakech,2023-12-08,vip,66.9,M
+CUST_0490,Soukaina Bennani,soukaina.moussaoui241@gmail.com,0721400686,Rabat,2022-08-23,Regular,46.3,femme
+CUST_0491,Khadija El Kabbaj,khadija.el mansouri674@gmail.com,0779089893,Casablanca,2024-02-13,REGULAR,49.7,F
+CUST_0492,Rania Lamrani,rania.tahiri@gmail.com,0799575241,sale,2024-06-11,REGULAR,36.5,femme
+CUST_0493,Anas El Kabbaj,anas.chakir49@gmail.com,0763959197,marrakech,2023-11-21,Premium,47.7,M
+CUST_0494,Omar Zahraoui,omar.tahiri356@gmail.com,0750513220,sale,2025-01-10,vip,26.2,
+CUST_0495,Samira Slaoui,samira.zahraoui465@gmail.com,0734239835,tanger,2024-10-19,Premium,54.4,Femme
+CUST_0496,Hamza El Kabbaj,hamza.driouech958@gmail.com,0718037180,kenitra,2022-10-30,VIP,30.5,homme
+CUST_0497,Hassan Driouech,hassan.fassi650@gmail.com,0645827376,oujda,2023-05-04,vip,49.7,homme
+CUST_0498,Hassan Alami,hassan.berrada476@gmail.com,0666642448,CASABLANCA,2022-11-23,regular,26.5,Male
+CUST_0499,Hassan Chakir,hassan.chakir675@gmail.com,0715668332,Salé,2023-09-03,Premium,5.0,M
+CUST_0500,Rachid Fassi,rachid.idrissi242@gmail.com,0777142220,agadire,2025-04-03,inactive,38.9,homme
+CUST_DUP893,Yasmine El Mansouri,yasmine.bennani182@gmail.com,0632031067,fez,2025-03-11,New,35.6,Femme
+CUST_DUP637,Driss Fassi,driss.chakir972@gmail.com,0631549640,tng,2022-05-20,Premium,54.8,M
+CUST_DUP608,Hanae Berrada,hanae.bennani162@gmail.com,0672336371,Salé,2023-12-09,Inactive,46.7,Femme
+CUST_DUP192,Ismail Chakir,ismail.el mansouri@gmail.com,0726469781,Tétouan,2024-01-24,VIP,27.5,Homme
+CUST_DUP714,Samira Berrada,samira.ait benhaddou205@gmail.com,0570672142,Essaouira,2023-10-17,New,43.2,
+CUST_DUP891,Imane Ait Benhaddou,imane.moussaoui468@gmail.com,0635583290,Rabat,2024-04-29,Regular,54.6,Femme
+CUST_DUP420,Asmae Idrissi,,0791125155,tanger,2024-11-09,VIP,76.2,Femme
+CUST_DUP952,Tarik Chakir,tarik.chakir815@gmail.com,0664496076,sale,2022-06-15,inactive,33.3,
+CUST_DUP854,Ali Chakir,,0627208745,oujda,2023-08-07,New,23.2,M
+CUST_DUP925,Amina El Amrani,amina.el mansouri17@gmail.com,0569228397,essaouira,2022-09-28,regular,42.4,F
+CUST_DUP861,Loubna Ouazzani,loubna.el kabbaj139@gmail.com,0670516875,Tanger,2022-07-04,VIP,120.0,F
+CUST_DUP533,Sara Idrissi,sara.slaoui322@gmail.com,0525226815,Marrakech,2023-06-18,Regular,49.6,
+CUST_DUP247,Hanae Berrada,hanae.sebbar362@gmail.com,0635140847,RABAT,2024-01-09,premium,50.8,Female
+CUST_DUP279,Hamza Moussaoui,hamza.lamrani678@gmail.com,0567061186,tetouan,2022-05-27,NEW,48.4,M
+CUST_DUP381,Ali Idrissi,ali.ait benhaddou460@gmail.com,0512550658,Fès,2024-12-16,premium,46.9,Homme
+CUST_DUP518,Soukaina Ait Benhaddou,soukaina.idrissi@gmail.com,0780573568,oujdaa,2024-02-23,new,39.9,
+CUST_DUP983,Fatiha Moussaoui,fatiha.ouazzani834@gmail.com,0751971886,casa,2023-09-24,VIP,44.6,Femme
+CUST_DUP157,Hanae Driouech,hanae.benkirane138@gmail.com,0674418331,Meknès,2024-09-24,Regular,54.7,Female
+CUST_DUP646,Anas El Kabbaj,anas.ouazzani858@gmail.com,0722132198,Kénitra,2022-11-30,new,37.4,
+CUST_DUP816,Asmae Ait Benhaddou,asmae.el mansouri501@gmail.com,0714142053,Agadir,2022-03-08,Regular,45.7,Femme
+CUST_DUP215,Ali Ait Benhaddou,ali.el kabbaj352@gmail.com,0783366099,essaouira,2024-02-25,New,5.0,Homme
+CUST_DUP658,Imane Zahraoui,imane.el mansouri101@gmail.com,0773013937,Salé,2022-04-04,vip,42.8,femme
+CUST_DUP586,Adil Idrissi,adil.moussaoui@gmail.com,0711287794,sale,2023-02-25,New,42.6,Male
+CUST_DUP352,Sara Ouazzani,sara.sebbar347@gmail.com,0718060088,Fès,2025-01-03,Inactive,56.5,Female
+CUST_DUP384,Omar Zahraoui,omar.tahiri356@gmail.com,0750513220,sale,2025-01-10,vip,26.2,
+CUST_DUP903,Yasmine Zahraoui,yasmine.benkirane910@gmail.com,06587957,Rabat,2023-02-24,premium,53.1,F
+CUST_DUP248,Ismail Ait Benhaddou,ismail.berrada571@gmail.com,0554038904,Kénitra,2024-07-24,Regular,50.4,Male
+CUST_DUP586,Brahim Ouazzani,brahim.moussaoui529@gmail.com,0554424679,casa,2024-04-09,regular,49.0,M
+CUST_DUP476,Omar Zahraoui,omar.idrissi781@gmail.com,0736589676,agadire,2023-05-12,regular,24.6,Homme
+CUST_DUP415,Anas Zahraoui,anas.filali87@gmail.com,0730689702,Kénitra,2024-06-20,regular,52.5,Male
+CUST_DUP760,Salma Bennani,salma.lamrani970@gmail.com,06897549,FES,2024-12-16,Regular,42.6,Female
+CUST_DUP720,Hamza El Kabbaj,hamza.driouech958@gmail.com,0718037180,kenitra,2022-10-30,VIP,30.5,homme
+CUST_DUP961,Amine Lamrani,amine.bennani766@gmail.com,0588406989,agadire,2022-04-27,NEW,56.0,M
+CUST_DUP778,Hanae Moussaoui,hanae.alami368@gmail.com,06626725,Kénitra,2024-08-28,VIP,25.0,
+CUST_DUP155,Jamal Idrissi,jamal.el mansouri545@gmail.com,0787568641,agadir,2023-10-11,inactive,30.4,M
